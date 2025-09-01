@@ -18,8 +18,6 @@ My research focuses on machine learning applications in security and privacy, pa
 **{{ pub.title }}**  
 {{ pub.content | strip_html | strip_newlines | truncate: 200 }}  
 
-[>>PDF]({{ pub.paperurl }})
-
 {% endfor %}
 
 
