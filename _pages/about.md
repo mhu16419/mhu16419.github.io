@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the Department of Computer Science, George Mason University. I am advised by [Prof. Lannan Luo](https://lannan.github.io/). Previously, I obtained my Master's degree and Bachelor's degree both from Southeast University. 
+I am a Ph.D. student at the Department of Computer Science, George Mason University. My research focuses on NLP applications in software engineering. I am advised by [Prof. Lannan Luo](https://lannan.github.io/). Previously, I obtained my Master's degree and Bachelor's degree both from Southeast University. 
 
-My research focuses on machine learning applications in security and privacy, particularly in malware detection and binary code analysis. I work on developing novel deep learning architectures that can effectively detect and analyze malicious software across different instruction set architectures.
+
 
 ## Publications
 
