@@ -23,13 +23,13 @@ repository               : "mhu16419/mhu16419.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Finn"
-  pronouns         : "they/them"  
-  bio              : "Software engineer and researcher passionate about AI, machine learning, and building impactful technology"
-  location         : "San Francisco, CA"
-  employer         : "Tech Company"
-  uri              : # URL
-  email            : "finn@example.org" 
+  name             : "Minghao Hu"
+  #pronouns         : "they/them"  
+  #bio              : "PhD Student"
+  location         : "Fairfax, VA"
+  #employer         : "Tech Company"
+  #uri              : # URL
+  email            : "mhu20@gmu.edu" 
 
   # Academic websites
   academia         : # URL
