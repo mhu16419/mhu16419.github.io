@@ -15,11 +15,7 @@ I am a Ph.D. student at the Department of Computer Science, George Mason Univers
 
 {% assign publications = site.publications | sort: 'date' | reverse %}
 {% for pub in publications %}
-**{{ pub.title }}**  
-
-{{ pub.content | strip_html | strip_newlines | truncate: 200 }}  
-
-[>>PDF]({{ pub.paperurl }})
+{{ pub.content }}
 
 {% endfor %}
 
