@@ -13,13 +13,13 @@ My research focuses on machine learning applications in security and privacy, pa
 
 ## Publications
 
-{% raw %}{% assign publications = site.publications | sort: 'date' | reverse %}{% endraw %}
-{% raw %}{% for pub in publications %}{% endraw %}
+{% assign publications = site.publications | sort: 'date' | reverse %}
+{% for pub in publications %}
 **{{ pub.title }}**  
 {{ pub.content | strip_html | strip_newlines | truncate: 200 }}  
 [>>PDF]({{ pub.paperurl }})
 
-{% raw %}{% endfor %}{% endraw %}
+{% endfor %}
 
 
 
