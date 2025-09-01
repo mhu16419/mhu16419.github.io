@@ -21,7 +21,7 @@ I am a Ph.D. student at the Department of Computer Science, George Mason Univers
 
 ## Teaching Experience
 
-**Fall 2025, ISA 562, Information Security System and Theory, Teaching Assistant**
+Fall 2025, ISA 562, Information Security System and Theory, Teaching Assistant
 
 
 
