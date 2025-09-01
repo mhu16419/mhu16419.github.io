@@ -18,6 +18,8 @@ I am a Ph.D. student at the Department of Computer Science, George Mason Univers
 **{{ pub.title }}**  
 {{ pub.content | strip_html | strip_newlines | truncate: 200 }}  
 
+[>>PDF]({{ pub.paperurl }})
+
 {% endfor %}
 
 
