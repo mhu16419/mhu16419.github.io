@@ -9,6 +9,6 @@ paperurl: '/forum?id=3uCR2b3nFE'
 
 **Minghao Hu, Junzhe Wang, Weisen Zhao, Qiang Zeng, Lannan Luo**  
 
-EMNLP 2025 Findings, 2025
+EMNLP 2025 Findings
 
 [>>PDF](https://arxiv.org/html/2508.20212v1)
