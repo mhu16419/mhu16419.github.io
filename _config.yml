@@ -22,7 +22,7 @@ repository               : "mhu20/mhu20.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : # "profile.png"
   name             : "Finn"
   pronouns         : "they/them"  
   bio              : "Software engineer and researcher passionate about AI, machine learning, and building impactful technology"
