@@ -7,6 +7,6 @@ venue: 'EMNLP 2025 Findings'
 paperurl: 'https://arxiv.org/html/2508.20212v1'
 ---
 
-Unsupervised Binary Code Translation for Malware Detection Using Flow-Adapter Architecture (EMNLP 2025 Findings) [>>PDF](https://arxiv.org/abs/2508.20212)
+Unsupervised Binary Code Translation for Malware Detection Using Flow-Adapter Architecture (EMNLP 2025 Findings) [PDF](https://arxiv.org/abs/2508.20212)
 
 **Minghao Hu**, Junzhe Wang, Weisen Zhao, Qiang Zeng, Lannan Luo
