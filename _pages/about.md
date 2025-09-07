@@ -25,7 +25,7 @@ Fall 2025, ISA 562, Information Security System and Theory, Teaching Assistant
 
 ## Service
 
-**AAAI 2025, Reviewer**
+**Reviewer: AAAI 2025**
 
 
 
