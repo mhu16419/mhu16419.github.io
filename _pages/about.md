@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student at the Department of Computer Science, [George Mason University](https://www.gmu.edu/). My research focuses on NLP applications in software engineering. I am advised by [Prof. Lannan Luo](https://lannan.github.io/). Previously, I obtained my Master's degree and Bachelor's degree both from [Southeast University](https://www.seu.edu.cn/). 
+I am a third-year Ph.D. student at the Department of Computer Science, [George Mason University](https://www.gmu.edu/). My research focuses on NLP applications in software engineering. I am advised by [Prof. Lannan Luo](https://lannan.github.io/). Previously, I obtained my Master's degree (advised by [Prof. Shaofu Yang](https://sfyangcs.github.io/)) and Bachelor's degree both from [Southeast University](https://www.seu.edu.cn/). 
 
 
 
