@@ -23,5 +23,9 @@ I am a third-year Ph.D. student at the Department of Computer Science, [George M
 
 Fall 2025, ISA 562, Information Security System and Theory, Teaching Assistant
 
+## Service
+
+**AAAI 2025, Reviewer**
+
 
 
