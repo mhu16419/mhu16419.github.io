@@ -26,7 +26,7 @@ Fall 2025, ISA 562, Information Security System and Theory, Teaching Assistant
 ## Service
 
 **Reviewer: AAAI 2025**
-**ISC 2024: Local Organization Team**
+**Local Organization Team: ISC 2024**
 
 
 
