@@ -23,6 +23,8 @@ I am a third-year Ph.D. student at the Department of Computer Science, [George M
 
 Fall 2025, ISA 562, Information Security System and Theory, Teaching Assistant
 
+Spring 2026 CS 262, Introduction to Low-level Programming, Teaching Assistant
+
 ## Service
 
 **Reviewer: AAAI 2025, ICML 2026**
