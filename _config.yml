@@ -25,6 +25,8 @@ author:
   avatar           : "profile1.jpeg"
   name             : "Minghao Hu"
   location         : "Fairfax, VA"
+  bio              : "3rd-year Ph.D. student at George Mason University"
+  university       : "George Mason University"
   email            : "mhu20@gmu.edu" 
 
   # Academic websites
