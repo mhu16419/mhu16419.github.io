@@ -7,6 +7,8 @@ venue: '2025 Conference on Empirical Methods in Natural Language Processing (EMN
 paperurl: 'https://arxiv.org/html/2508.20212v1'
 ---
 
-• FlowMalTrans: Unsupervised Binary Code Translation for Malware Detection Using Flow-Adapter Architecture (**2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)**) [PDF](https://arxiv.org/abs/2508.20212)
+• FlowMalTrans: Unsupervised Binary Code Translation for Malware Detection Using Flow-Adapter Architecture 
+
+(**2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)**) [PDF](https://arxiv.org/abs/2508.20212)
 
 **Minghao Hu**, Junzhe Wang, Weisen Zhao, Qiang Zeng, Lannan Luo
