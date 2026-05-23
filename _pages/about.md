@@ -24,6 +24,11 @@ My CV can be accessed [here](https://drive.google.com/file/d/1MevmGtflhQv0Z-Eb3W
 {% endfor %}
 
 
+## Work Experience
+
+May 2026 - August 2026, Thoughtworks, AI Research Intern
+
+
 ## Teaching Experience
 
 Fall 2025, ISA 562, Information Security System and Theory, Teaching Assistant
@@ -35,6 +40,5 @@ Spring 2026 CS 262, Introduction to Low-level Programming, Teaching Assistant
 **Reviewer: AAAI 2025, ICML 2026, NIPS 2026**
 
 **Local Organization Team: ISC 2024**
-
 
 
