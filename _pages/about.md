@@ -23,9 +23,6 @@ My CV can be accessed [here](https://drive.google.com/file/d/1MevmGtflhQv0Z-Eb3W
 
 {% endfor %}
 
-## Work Experience
-
-**AI Research Intern, [Thoughtworks](https://www.thoughtworks.com/)**, May 2026 – August 2026
 
 ## Teaching Experience
 

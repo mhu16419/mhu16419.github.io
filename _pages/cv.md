@@ -17,6 +17,9 @@ Education
 
 Work experience
 ======
+* May 2026 - August 2026: AI Research Intern
+  * Thoughtworks
+
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
