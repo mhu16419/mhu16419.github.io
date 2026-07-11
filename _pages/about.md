@@ -37,7 +37,7 @@ Spring 2026 CS 262, Introduction to Low-level Programming, Teaching Assistant
 
 ## Service
 
-**Reviewer: AAAI 2025, ICML 2026, NIPS 2026**
+**Reviewer: AAAI 2025, ICML 2026, NIPS 2026, AAAI 2026**
 
 **Local Organization Team: ISC 2024**
 
