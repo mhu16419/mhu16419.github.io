@@ -11,29 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* September 2023 - May 2027 (Expected): Ph.D. in Computer Science
+  * George Mason University
+  * Advisor: Prof. Lannan Luo
+  * Research areas: software engineering, binary code analysis, smart contract security, LLM4Code
+
+* September 2020 - May 2023: M.S. in Computer Science
+  * Southeast University
+  * Coursework: database systems, algorithms, discrete optimization, computer networks
+
+* September 2020 - May 2023: M.S. in Information Technology System (Double Degree)
+  * Monash University
+  * Coursework: deep learning, natural language processing, machine learning
+
+* September 2016 - May 2020: B.S. in Computer Science
+  * Southeast University
+  * Coursework: compilers, C++, operating systems, database systems
 
 Work experience
 ======
 * May 2026 - August 2026: AI Research Intern
   * Thoughtworks
+  * Conducting research on LLM sampling and decoding strategies.
+  * Exploring post-training and evaluation approaches for applied AI systems.
 
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2025 - May 2026: Graduate Teaching Assistant
+  * George Mason University
+  * Fall 2025, ISA 562, Information Security System and Theory, Grader and Lab Instructor
+  * Spring 2026, CS 262, Introduction to Low-level Programming, Grader and Lab Instructor
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2023 - May 2025: Graduate Research Assistant
+  * George Mason University
+  * Conducted research on binary code analysis and smart contract security under advisor Prof. Lannan Luo.
   
 Skills
 ======
